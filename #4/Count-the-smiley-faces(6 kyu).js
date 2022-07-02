@@ -31,5 +31,10 @@ function countSmileys(arr) {
   
     return count;
   }
+<<<<<<< HEAD
   
+=======
+
+
+>>>>>>> c0d862afc174552444f94254d67a24cb6bc90c07
 console.log(countSmileys([':D',':~)',';~D',':)']));
